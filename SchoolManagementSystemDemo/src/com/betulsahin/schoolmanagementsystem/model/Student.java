@@ -1,4 +1,4 @@
-package model;
+package com.betulsahin.schoolmanagementsystem.model;
 
 import javax.persistence.*;
 import java.time.LocalDate;
